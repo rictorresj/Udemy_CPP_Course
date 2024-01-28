@@ -1,0 +1,11 @@
+-IC:\Users\ricto\Desktop\CPPExamples\Section5\Comments
+-Ic:\mingw64\include\c++\12.3.0
+-Ic:\mingw64\include\c++\12.3.0\x86_64-w64-mingw32
+-Ic:\mingw64\include\c++\12.3.0\backward
+-Ic:\mingw64\lib\gcc\x86_64-w64-mingw32\12.3.0\include
+-Ic:\mingw64\include
+-Ic:\mingw64\lib\gcc\x86_64-w64-mingw32\12.3.0\include-fixed
+-Ic:\mingw64\x86_64-w64-mingw32\include
+-std=c++17
+-target
+x86_64-w64-mingw32

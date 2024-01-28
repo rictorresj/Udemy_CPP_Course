@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="Section8practice" Path="Section8practice/Section8practice.project" Active="No"/>
+  <Project Name="Section8challenge" Path="Section8challenge/Section8challenge.project" Active="Yes"/>
+  <Project Name="Section9" Path="../Section9/Section9/Section9.project"/>
+  <Project Name="Section9" Path="../Section9/Section9/Section9.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Section8practice" ConfigName="Debug"/>
+      <Project Name="Section8challenge" ConfigName="Debug"/>
+      <Project Name="Section9" ConfigName="Debug"/>
+      <Project Name="Section9" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Section8practice" ConfigName="Release"/>
+      <Project Name="Section8challenge" ConfigName="Release"/>
+      <Project Name="Section9" ConfigName="Release"/>
+      <Project Name="Section9" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
