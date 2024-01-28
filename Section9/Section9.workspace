@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="Section9" Path="Section9/Section9.project" Active="No"/>
+  <Project Name="Section9" Path="Section9/Section9.project" Active="No"/>
+  <Project Name="Section10" Path="../Section10/Section10/Section10.project" Active="No"/>
+  <Project Name="Section10challenge" Path="../Section10challenge/Section10challenge/Section10challenge.project" Active="No"/>
+  <Project Name="Section11" Path="../Section11/Section11/Section11.project" Active="No"/>
+  <Project Name="Section12" Path="../Section12/Section12/Section12.project" Active="Yes"/>
+  <VirtualDirectory Name="Section13"/>
+  <Project Name="Section90" Path="Section90/Section90.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Section9" ConfigName="Debug"/>
+      <Project Name="Section9" ConfigName="Debug"/>
+      <Project Name="Section10" ConfigName="Debug"/>
+      <Project Name="Section10challenge" ConfigName="Debug"/>
+      <Project Name="Section11" ConfigName="Debug"/>
+      <Project Name="Section12" ConfigName="Debug"/>
+      <Project Name="Section90" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Section9" ConfigName="Release"/>
+      <Project Name="Section9" ConfigName="Release"/>
+      <Project Name="Section10" ConfigName="Release"/>
+      <Project Name="Section10challenge" ConfigName="Release"/>
+      <Project Name="Section11" ConfigName="Release"/>
+      <Project Name="Section12" ConfigName="Release"/>
+      <Project Name="Section90" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
